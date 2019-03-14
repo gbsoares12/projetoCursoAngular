@@ -1,0 +1,8 @@
+.gridPessoas-status {
+  color: black;
+}
+
+.gridPessoas-status:hover {
+  text-decoration-line: underline;
+
+}
